@@ -1,0 +1,5 @@
+
+Application1/node_modules/*
+Application2/node_modules/*
+Application3/node_modules/*
+GatewayApp/node_modules/*
